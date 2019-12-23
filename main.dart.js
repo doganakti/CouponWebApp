@@ -7685,7 +7685,7 @@ this.b=b
 this.c=c},
 xD:function(a,b){var u=0,t=P.a_(L.pO),s,r,q,p,o
 var $async$xD=P.W(function(c,d){if(c===1)return P.X(d,t)
-while(true)switch(u){case 0:r=C.c.S(C.c.S("http://139.162.128.94:90/milestones?deviceId=",a)+"&applicationId=",b)
+while(true)switch(u){case 0:r=C.c.S(C.c.S("https://coupon.peki.work/milestones?deviceId=",a)+"&applicationId=",b)
 q=new U.yQ(null,new L.Cn(H.b([],[L.h4]),new L.kV(),new L.kV(),new L.kV()),null,new Q.yG(),!1)
 p=new B.wI(null,null,null,C.dq,null,!0,!0,5,null,null)
 p.nY(null,null,!0,null,5,null,!0,null,null,null,C.dq,null,null)
